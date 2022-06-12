@@ -1,8 +1,5 @@
 
 
-
-
-
 # UDPMbedPlus
 
 How can you do with mbed device with this code ?
@@ -10,15 +7,14 @@ How can you do with mbed device with this code ?
 AnalogRead
 ControlPwm with ethernet
 
-
-# prequests
+# Prequests
 
 LPC1768 
 Ethernet Connection
 
 
 
-
+# Includes
 
 This contains follow how can make a udp communcation with mbed as an server and client.
 Also this project includes "picojson" JSON using with ethernet parsing and serializing.
