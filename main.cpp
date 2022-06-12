@@ -27,11 +27,11 @@ DigitalOut Led1(LED1);
 DigitalOut Led2(LED2);
 DigitalOut Led3(LED3);
 
-static const char* mbedIP       = "192.168.109.131";       //IP
+static const char* mbedIP       = "192.168.105.56";       //IP
 static const char* mbedMask     = "255.255.255.0";          // Mask
-static const char* mbedGateway  = "192.168.109.1";          //Gateway
+static const char* mbedGateway  = "192.168.105.1";          //Gateway
 static const int   udpPort      = 4141;                     //Port
-char* destIP = "192.168.109.137";                           //Destination IP
+char* destIP = "192.168.105.48";                           //Destination IP
 
 
 UDPSocket socket;
