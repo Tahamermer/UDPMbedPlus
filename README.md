@@ -9,7 +9,7 @@ ControlPwm with ethernet
 
 # Prequests
 
-LPC1768 
+LPC1768 and
 Ethernet Connection
 
 
